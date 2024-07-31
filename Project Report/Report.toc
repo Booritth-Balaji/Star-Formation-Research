@@ -1,0 +1,12 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Acknowledgements}{1}{chapter*.1}%
+\contentsline {chapter}{Abstract}{2}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Hierarchical Structure of Star Formation}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Young Star Forming Regions}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Age Estimation of HII Regions}{6}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Analysis}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Correlation Analysis of Age Estimators in PHANGS Galaxies}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Correlation Analysis and Age Estimation with Insights from Scheuermann et al. (2023)}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Evolution of Age Estimators in NGC1566 Using UVIT Data}{13}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Results and Conclusions}{16}{chapter.3}%
